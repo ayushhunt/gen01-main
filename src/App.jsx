@@ -8,6 +8,7 @@ import Footer from './components/Layout/Footer';
 // App Starts here...
 const App = () => {
   return (
+    //Layout of the website
     <div className="wrapper">
       <Header />
       <main className="main">
