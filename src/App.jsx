@@ -5,6 +5,7 @@ import Header from './components/Layout/Header';
 import Home from './pages/Home';
 import Footer from './components/Layout/Footer';
 
+// App Starts here...
 const App = () => {
   return (
     <div className="wrapper">
